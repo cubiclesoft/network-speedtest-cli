@@ -5,7 +5,7 @@ This is a powerful network speed tester but it is more than that.  It can utiliz
 
 The tool boils results down into a simple JSON summary that is pretty easy to understand and can also be integrated into other tools (e.g. a script that generates an automated daily email report).
 
-[![Donate](https://cubiclesoft.com/res/donate-shield.png)](https://cubiclesoft.com/donate/)
+[![Donate](https://cubiclesoft.com/res/donate-shield.png)](https://cubiclesoft.com/donate/) [![Discord](https://img.shields.io/discord/777282089980526602?label=chat&logo=discord)](https://cubiclesoft.com/product-support/github/)
 
 Features
 --------
