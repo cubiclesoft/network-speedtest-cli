@@ -69,6 +69,8 @@
 
 	$type = CLI::GetLimitedUserInputWithArgs($args, false, "Speed test", false, "Available speed test types:", $types, true, $suppressoutput);
 
+	@mkdir($rootpath . "/cache", 0666);
+
 	function DisplayResult($result)
 	{
 		echo json_encode($result, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES) . "\n";
